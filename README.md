@@ -1,1 +1,1 @@
-# Predicting-Success-of-Kickstarter-Project
+# Predicting Success of Kickstarter Project
